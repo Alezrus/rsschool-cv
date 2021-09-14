@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool repo for markdown and CV tasks 
+https://alezrus.github.io/rsschool-cv/cv
